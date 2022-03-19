@@ -3,7 +3,7 @@ import { Card, CardGroup, Container, Row, Col, Button } from 'react-bootstrap'
 import project1 from './images/project1.PNG'
 import project2 from './images/project2.PNG'
 import project3 from './images/project3.PNG'
-import project4 from './images/project4.PNG'
+
 import project5 from './images/project5.PNG'
 import { AiTwotoneHeart, AiTwotoneTag } from 'react-icons/ai'
 

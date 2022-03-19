@@ -2,7 +2,7 @@ import React from 'react'
 import { Container } from 'react-bootstrap'
 import { AiTwotoneSetting } from 'react-icons/ai'
 import { GiThink, GiSkills } from 'react-icons/gi'
-import { BiLinkExternal } from 'react-icons/bi'
+
 
 const Skills = () => {
     return (
